@@ -173,14 +173,6 @@ nav ul {
 #footer img {
 	width:6rem;
 }
-#footer p {
-	display: inline-block;
-	vertical-align: middle;
-	font-size:0.8em;
-	margin-left:1em;
-	font-weight: bold;
-	color:#333;
-}
 
 .row {
 	display: flex;
