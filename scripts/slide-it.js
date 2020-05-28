@@ -9,7 +9,7 @@ $(document).ready(function(){
   	infinite: true,
   	dots: false,
   	autoplay: true,
-  	autoplaySpeed: 4000,
+  	autoplaySpeed: 3000,
   	fade: true,
   	speed:2000,
   	accessibility: false,
