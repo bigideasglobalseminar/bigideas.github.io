@@ -257,7 +257,7 @@ nav ul {
 }
 
 .person {
-	padding:2rem;
+	padding:0 2rem;
 	display:flex;
 	align-items: center;
 }
@@ -377,6 +377,10 @@ nav ul {
 
 	.qa-box {
 		padding-left:1rem;
+	}
+
+	.person {
+		padding:0 1rem;
 	}
 
 
