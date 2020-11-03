@@ -255,6 +255,7 @@ nav ul {
 	border-bottom:5px solid #CC743D;
 	margin:1rem 0;
 	text-decoration: none;
+	margin-right:1rem;
 }
 .but-center {
 	text-align: center;
@@ -327,6 +328,12 @@ nav ul {
 
 	#land {
 		margin-bottom:0;
+	}
+	#land h1 {
+		font-size:1.5em;
+	}
+	#land h2 {
+		font-size:1em;
 	}
 	.slick-next:before, .slick-prev:before {
 		font-size:32px;
